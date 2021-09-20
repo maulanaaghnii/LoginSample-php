@@ -6,4 +6,6 @@ exit;
 ?>
 
 
-<p>hi kamu sudah login</p>
+<p>Logged in.</p>
+
+<a href="logout.php"><button> Logout </button></a>
